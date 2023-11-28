@@ -1,5 +1,8 @@
 # Django-CRM
 
+CRM (Customer Relationship Management) App with Django, Python, and MySQL
+The app will use MySQL for the database.  Able to Register, Log In, Log Out, Add Records, View Records, Update Records, and Delete Records. 
+
 ![image](https://github.com/jroberts2124/Django-CRM/assets/61176037/768da251-fa4a-4261-95ac-90d7962df9dc)
 
 ![image](https://github.com/jroberts2124/Django-CRM/assets/61176037/9ea303bd-d594-4e77-84a5-b624c89658eb)
